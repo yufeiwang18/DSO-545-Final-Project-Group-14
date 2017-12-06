@@ -11,7 +11,8 @@ Group Members: Mohammad Ganji, Modan Wang, Muhammad Musthofa, Naiyuan Xiao, Wei 
 6. unit_data_for_regression.csv
 
 #R Shiny Dashboard File:
-final project dashboard.R
+project dashboard.R
+
 (Our dashboards inlcude basic data description, regression analysis and geospatial analysis.)
 
 #before use
