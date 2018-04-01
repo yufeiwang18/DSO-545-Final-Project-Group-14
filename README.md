@@ -1,4 +1,4 @@
-# DSO-545-Final-Project-Group-14
+# La Government City Planning Analysis Project
 USC Marshall MSBA DSO 545 Final Project Folder: Group 14
 Group Members: Mohammad Ganji, Modan Wang, Muhammad Musthofa, Naiyuan Xiao, Wei Tang, Yufei Wang
 
